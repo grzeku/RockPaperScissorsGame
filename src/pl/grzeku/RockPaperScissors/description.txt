@@ -1,0 +1,9 @@
+todo
+exception while scoreboard is null
+exception while writing non-int value
+save to file
+read from file
+resume game
+username
+play until x number of wins
+
